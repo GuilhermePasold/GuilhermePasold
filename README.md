@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **Software Developer** pursuing a Bachelor's degree in Information Systems at **UDESC - Universidade do Estado de Santa Catarina** (Brazil), building AI agents, automation pipelines, and full-stack web solutions.
+I'm a **Software Developer** completing a Bachelor's degree in Information Systems at **UDESC - Universidade do Estado de Santa Catarina** (Brazil), building AI agents, automation pipelines, and full-stack web solutions.
 
 My background covers 6+ years in high-performance environments: leading esports teams at national and international level and consulting for organizations across Brazil, the US, and Europe. That path built a strong foundation in **analytical thinking, leadership, and results-driven execution**.
 
@@ -84,18 +84,16 @@ Object-Oriented Programming coursework in Java from UDESC, covering core OOP pri
 - 🏅 Top 13 statewide - Nascer Estadual - 2,000+ projects in Santa Catarina
 - 🥈 2nd place - ELO Gestao Publica (UDESC Challenge)
 - 🥈 2nd place - LUMI Educacao Inclusiva (Innova Startup Extreme)
-- 🏳️ Finalist - Techstars Startup Weekend Videira 2025
 
 **Esports**
-- 👑 Finalist - Ita Gamers Club Awards 2021 (Best Coach in Brazil)
+- 👑 Finalist - Itaú Gamers Club Awards 2021 (Best Coach in Brazil)
 - 🏆 20+ titles and consistent national playoffs presence across multiple orgs
 - 🌎 Led teams at orgs in Brazil, the US (TSM), Germany (Nox), and Portugal (Samclan)
-- 📈 Promoted from Head Coach to Manager at Swan Esports based on results
 
 **Education & International**
 - 🇹🇷 International exchange at Istanbul Aydin University, Turkey (selected by top GPA)
 - 🇨🇦 English immersion at Canadian College of English Language, Vancouver
-- 🇵🇷 Student Council Representative and Athletics President at UDESC 2025
+- 🇧🇷 Student Council Representative and Athletics President at UDESC 2025
 
 ---
 
