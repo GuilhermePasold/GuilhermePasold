@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **Software Developer in training** at UDESC (Brazil), building AI agents, automation pipelines, and full-stack web solutions.
+I'm a **Software Developer** pursuing a Bachelor's degree in Information Systems at **UDESC - Universidade do Estado de Santa Catarina** (Brazil), building AI agents, automation pipelines, and full-stack web solutions.
 
 My background covers 6+ years in high-performance environments: leading esports teams at national and international level and consulting for organizations across Brazil, the US, and Europe. That path built a strong foundation in **analytical thinking, leadership, and results-driven execution**.
 
@@ -96,6 +96,37 @@ Object-Oriented Programming coursework in Java from UDESC, covering core OOP pri
 - 🇹🇷 International exchange at Istanbul Aydin University, Turkey (selected by top GPA)
 - 🇨🇦 English immersion at Canadian College of English Language, Vancouver
 - 🇵🇷 Student Council Representative and Athletics President at UDESC 2025
+
+---
+
+## 📋 Certifications & Courses
+
+**AI & Automation**
+- Introduction to Prototyping with Lovable and AI - TERA, 2025
+- Introduction to n8n and AI Agents - TERA, 2025
+- AI Agents & AI Automation Practical Guide - Udemy, 2025
+- Build LLM Apps & AI Agents with n8n - Udemy, 2025
+
+**Development**
+- Java and Object-Oriented Programming - Udemy, 2025
+- Industrial IT Apprenticeship - SENAI, 2014
+
+**Languages**
+- English Course Level 9 (Advanced) - CCAA, 2017
+- English as a Second Language - CCEL (Canadian College), Vancouver, 2017
+- Duolingo English Test - 125/160
+
+**Programs & Events**
+- Techstars Startup Weekend Videira, 2025
+- UDESC Challenge, 2025
+- Programa NASCER - SEBRAE/SC, TIFAPESC, 2024
+- REUNI Challenge, 2024
+- Innova Startup Extreme, 2024
+- Level ONE Florianopolis, 2024
+- People Management - SEBRAE, 2023
+- Customer Service - SEBRAE, 2023
+- Entrepreneurship Transversal Skills - 2014
+- Science & Innovation Fair - PUCRS, 2013
 
 ---
 
