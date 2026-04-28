@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer · AI Agents · Automation · Full-Stack</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/guilherme-pasold-de-queiroz-722bba196" target="_blank">
+  <a href="https://linkedin.com/in/guilherme-pasold-de-queiroz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:guipaq@gmail.com">
@@ -14,17 +14,17 @@
 
 ## About Me
 
-I'm a **Software Developer in training** at UDESC (Brazil), currently on an international exchange at Istanbul Aydın University 🇹🇷. I build AI agents, automation pipelines, and full-stack web solutions.
+I'm a **Software Developer in training** at UDESC (Brazil), building AI agents, automation pipelines, and full-stack web solutions.
 
-My background spans 6+ years in high-performance environments — leading esports teams internationally and consulting for organizations across Brazil, the US, and Europe — which gave me a strong foundation in **analytical thinking, leadership, and results-driven execution**.
+My background covers 6+ years in high-performance environments: leading esports teams at national and international level and consulting for organizations across Brazil, the US, and Europe. That path built a strong foundation in **analytical thinking, leadership, and results-driven execution**.
 
-Now I apply those skills in tech: writing code, building intelligent agents, and solving real problems.
+I completed an international exchange at Istanbul Aydin University (Turkey), selected by top academic GPA, and spent time in Canada for English immersion. Now fully focused on tech, open to learning fast and contributing from day one.
 
 - 🔭 Currently building: AI agents with n8n, Python, and LLMs
 - 🌱 Learning: Django, React, Docker, Microservices
 - 💼 Open to: Junior / Trainee Developer roles (any stack)
 - 🌍 Languages: Portuguese (native) · English (fluent)
-- 📍 Based in: Caçador, SC, Brazil
+- 📍 Based in: Cacador, SC, Brazil
 
 ---
 
@@ -64,14 +64,14 @@ Now I apply those skills in tech: writing code, building intelligent agents, and
 ## 🚀 Featured Projects
 
 ### 🤖 [LeadHunter AI Agent](https://github.com/GuilhermePasold/lead_hunter_AI_agent)
-Autonomous multi-agent system for B2B lead generation. Scrapes local businesses, qualifies prospects, and sends personalized outreach — powered by GPT + Playwright.
+Autonomous multi-agent system for B2B lead generation. Scrapes local businesses, qualifies prospects, and sends personalized outreach powered by GPT and Playwright.
 `Python` · `OpenAI` · `Playwright` · `AI Agents` · `Automation`
 
 ### 🏥 [Smart Medical Triage Agent](https://github.com/GuilhermePasold/smart-medical-triage-agent)
 AI solution for hospital Emergency Departments combining KNN machine learning and symbolic AI to prioritize patients and optimize ER routing.
 `Python` · `Machine Learning` · `KNN` · `Symbolic AI` · `Healthcare`
 
-### ☕ [OOP Exercises — UDESC 2024](https://github.com/GuilhermePasold/OO_UDESC_2024_Exercicios)
+### ☕ [OOP Exercises - UDESC 2024](https://github.com/GuilhermePasold/OO_UDESC_2024_Exercicios)
 Object-Oriented Programming coursework in Java from UDESC, covering core OOP principles.
 `Java` · `OOP` · `University`
 
@@ -79,22 +79,32 @@ Object-Oriented Programming coursework in Java from UDESC, covering core OOP pri
 
 ## 🏆 Highlights
 
-- 🥇 **1st place** — Programa NASCER (SEBRAE/SC · TIFAPESC) — 60+ projects
-- 🏅 **Top 13 Statewide** — Nascer Estadual — 2,000+ projects in Santa Catarina
-- 🥈 **2nd place** — ELO Gesto Pública (UDESC Challenge)
-- 🥈 **2nd place** — LUMI Educação Inclusiva (Innova Startup Extreme)
-- 🎓 **International Exchange** — Istanbul Aydın University (selected by top GPA)
-- 🌎 **International experience** — Canada 🇨🇦 and Turkey 🇹🇷
+**Startups & Innovation**
+- 🥇 1st place - Programa NASCER (SEBRAE/SC · TIFAPESC) - 60+ projects competing
+- 🏅 Top 13 statewide - Nascer Estadual - 2,000+ projects in Santa Catarina
+- 🥈 2nd place - ELO Gestao Publica (UDESC Challenge)
+- 🥈 2nd place - LUMI Educacao Inclusiva (Innova Startup Extreme)
+- 🏳️ Finalist - Techstars Startup Weekend Videira 2025
+
+**Esports**
+- 👑 Finalist - Ita Gamers Club Awards 2021 (Best Coach in Brazil)
+- 🏆 20+ titles and consistent national playoffs presence across multiple orgs
+- 🌎 Led teams at orgs in Brazil, the US (TSM), Germany (Nox), and Portugal (Samclan)
+- 📈 Promoted from Head Coach to Manager at Swan Esports based on results
+
+**Education & International**
+- 🇹🇷 International exchange at Istanbul Aydin University, Turkey (selected by top GPA)
+- 🇨🇦 English immersion at Canadian College of English Language, Vancouver
+- 🇵🇷 Student Council Representative and Athletics President at UDESC 2025
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermePasold&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePasold&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePasold&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">Open to Junior & Trainee developer roles — let's build something great together!</p>
+<p align="center">Open to Junior and Trainee developer roles. Let's build something great together!</p>
