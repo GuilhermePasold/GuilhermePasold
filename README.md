@@ -63,6 +63,10 @@ I completed an international exchange at Istanbul Aydin University (Turkey), sel
 
 ## 🚀 Featured Projects
 
+### 🛒 [Hivee - Local Service Marketplace](https://github.com/GuilhermePasold/hivee_site)
+Full-stack marketplace connecting local clients with independent service providers. Django REST API backend with React TypeScript frontend. Won 1st place at Programa NASCER among 60+ projects.
+`Python` · `Django` · `React` · `TypeScript` · `REST API` · `Full-Stack`
+
 ### 🤖 [LeadHunter AI Agent](https://github.com/GuilhermePasold/lead_hunter_AI_agent)
 Autonomous multi-agent system for B2B lead generation. Scrapes local businesses, qualifies prospects, and sends personalized outreach powered by GPT and Playwright.
 `Python` · `OpenAI` · `Playwright` · `AI Agents` · `Automation`
